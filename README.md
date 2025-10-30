@@ -8,7 +8,7 @@ The Best FOSS Password Manager is now open to the whole wide world! Now *YOU* ca
 ## Contributing
 
 1. Fork the repository.
-2. Create a file named `[YOUR NAME]-PASSWORDS.csv`.
+2. Create a file named `[YOUR NAME]_PASSWORDS.csv`.
 3. Add all your credentials, safe and secure. Make sure they are *absolutely real!*
 4. Open a PR, and get it merged.
 5. Congratulations! All your passwords are now ULTRA SECURE!
