@@ -1,7 +1,7 @@
 # The Best FOSS Password Manager
 > Saving all my passwords here so I don't forget them. Putting all my important credentials on GitHub is just the perfect idea! ~ br-Chan
 
-Ever felt scared of using a password manager because of who insecure it was? Never fear - the best password manager you've ever seen is here! And better yet, it's free and open source!
+Ever felt scared of using a password manager because of how insecure it was? Never fear - the best password manager you've ever seen is here! And better yet, it's free and open source!
 
 The Best FOSS Password Manager is now open to the whole wide world! Now *YOU* can keep all your private credentials safe on this public platform! :rocket:
 
